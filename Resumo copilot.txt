@@ -1,0 +1,9 @@
+Este desafio oferece a oportunidade de aprender habilidades valiosas em áreas como desenvolvimento de chatbots, inteligência artificial, experiência do usuário e análise de dados, preparando você para criar soluções de conversação inovadoras e eficazes.
+
+* Monitorar o desempenho do chatbot e analisar métricas relevantes para identificar áreas de melhoria.
+* Utilizar dados para otimizar os fluxos de conversa e aprimorar a experiência do usuário.
+* Criar chatbots que ofereçam uma experiência de conversação natural e intuitiva.
+* Coletar feedback dos usuários para aprimorar o desempenho do chatbot e adaptá-lo às suas necessidades.
+* Explorar o uso de IA generativa para melhorar a capacidade do chatbot de lidar com perguntas complexas e inesperadas.
+* Compreender como o PLN é utilizado para interpretar a linguagem natural dos usuários.
+* Utilizar prompts bem definidos para orientar a IA na geração de respostas precisas e relevantes.
